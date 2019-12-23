@@ -3,7 +3,7 @@
 //  Dimples_xcode
 //
 //  Created by zhangqizky on 2019/12/23.
-//  Copyright © 2019年 tangxi. All rights reserved.
+//  Copyright © 2019年 zhangqizky. All rights reserved.
 //
 
 #include <opencv2/opencv.hpp>
